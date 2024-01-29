@@ -25,7 +25,7 @@ This application allows users to search for weather information by entering a ci
 
 ## Preview
 
-![Weather App Preview](preview.png)
+![Weather App Preview]([preview.png](https://github.com/anchanareghu/WeatherApp/assets/143755659/e560a75e-8d06-44e7-be38-30205f15bcc5))
 
 ## Demo
 
@@ -35,4 +35,3 @@ You can access a live demo of the Weather Web Application [here](https://anchana
 
 - **OpenWeatherMap API:** Special thanks to OpenWeatherMap for providing the weather data API used in this project.
 
-![](https://github.com/anchanareghu/WeatherApp/assets/143755659/e560a75e-8d06-44e7-be38-30205f15bcc5)
