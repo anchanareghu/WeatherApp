@@ -15,17 +15,9 @@ This application allows users to search for weather information by entering a ci
 - **JavaScript:** Used for fetching weather data from an external API and updating the UI dynamically.
 - **OpenWeatherMap API:** Used to retrieve weather information based on city names.
 
-## How to Use
-
-1. Clone this repository to your local machine.
-2. Open the `index.html` file in a web browser.
-3. Enter the name of the city for which you want to check the weather.
-4. Press the "Search" or "Submit" button to retrieve the weather information.
-5. The weather details for the specified city will be displayed on the screen.
-
 ## Preview
 
-![Weather App Preview]([preview.png](https://github.com/anchanareghu/WeatherApp/assets/143755659/e560a75e-8d06-44e7-be38-30205f15bcc5))
+![]([preview.png](https://github.com/anchanareghu/WeatherApp/assets/143755659/e560a75e-8d06-44e7-be38-30205f15bcc5))
 
 ## Demo
 
