@@ -16,8 +16,7 @@ This application allows users to search for weather information by entering a ci
 - **OpenWeatherMap API:** Used to retrieve weather information based on city names.
 
 ## Preview
-
-![]([preview.png](https://github.com/anchanareghu/WeatherApp/assets/143755659/e560a75e-8d06-44e7-be38-30205f15bcc5))
+![image](https://github.com/anchanareghu/WeatherApp/assets/143755659/6777d0c2-7b2f-4ae6-8485-b31a913e3b6b)
 
 ## Demo
 
